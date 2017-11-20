@@ -4,9 +4,9 @@ This is the [Pull Request Page](https://github.com/freeCodeCamp/wiki/pull/1283).
 
 This is a Github repo for contributing to [freeCodeCamp/wiki](https://github.com/freeCodeCamp/wiki), an open source projects for serving the current wiki forum of freeCodeCamp.
 
-### About this projects
+## About this project
 
-**Why this projects?**
+**Why this project?**
 
 I choose this project for the following reasons:
 1. freeCodeCamp is a free community that helps people learn to code and the its forum is a good place to discuss question.
