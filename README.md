@@ -19,6 +19,6 @@ There are not too many open issues about coding in the issues list of this proje
 **What were your steps in choosing this project?**
 At the beginning, I went through the projects in the Github explore page and found that most of projects were not friendly for beginners. In Katrina's article, she recommonded people started a familiar project, so I searched some popular projects by using "wiki" as the key word. I used word "wiki" because I think "wiki" open source projects could provide people free useful coding language knowledges and these projects are also easy to following. In the result of searching "wiki", I think freeCodeCamp should be a appropriate projects for me for the following reasons:
 1. FreeCodeCamp Wiki had a very good starting. There are over 800 articles in current wiki forum and I think it is still extensible. 
-2. There are over 100 contributers in this project and most of them are volunteers. Thus, I believe this project would be active in future. 
+2. There are over 300 contributers in this project and most of them are volunteers. Thus, I believe this project would be active in future. 
 
 
