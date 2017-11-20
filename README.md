@@ -27,7 +27,7 @@ At the beginning, I went through the projects in the Github explore page and fou
 1. FreeCodeCamp Wiki had a very good starting. There are over 800 articles in current wiki forum and I think it is still extensible. 
 2. There are over 300 contributers in this project and most of them are volunteers. Thus, I believe this project would be active in future. 
 
-### Codes
+## Codes
 
 ![PullRequest](https://lh5.googleusercontent.com/pndtQwZoPtpPhhjnW3A8-WiHCYVSkm1EYHrqpIoD-kAEYV1Sd6N6tBxRF95d1oN1COp5vU6Lxlm3isyNTFgs=w2874-h1582)
 
