@@ -2,7 +2,9 @@
 
 This is the [Pull Request Page](https://github.com/freeCodeCamp/wiki/pull/1283).
 
-This is a Github repo for contributing to freeCodeCamp/wiki, an open source projects for serving the current wiki forum of freeCodeCamp.
+This is a Github repo for contributing to [freeCodeCamp/wiki](https://github.com/freeCodeCamp/wiki), an open source projects for serving the current wiki forum of freeCodeCamp.
+
+### About this projects
 
 **Why this projects?**
 
@@ -25,7 +27,7 @@ At the beginning, I went through the projects in the Github explore page and fou
 1. FreeCodeCamp Wiki had a very good starting. There are over 800 articles in current wiki forum and I think it is still extensible. 
 2. There are over 300 contributers in this project and most of them are volunteers. Thus, I believe this project would be active in future. 
 
-#### Codes
+### Codes
 
 ![PullRequest](https://lh5.googleusercontent.com/pndtQwZoPtpPhhjnW3A8-WiHCYVSkm1EYHrqpIoD-kAEYV1Sd6N6tBxRF95d1oN1COp5vU6Lxlm3isyNTFgs=w2874-h1582)
 
@@ -45,4 +47,4 @@ I create a HTML document type declaration article.
 
 ![code4](https://lh5.googleusercontent.com/NeT_jxu-OcuqntA6iHLFz737s3VgZjjyCYdF0mRfC5C4rfQbbXIC9RZn7Bl77jtz2TsgxDA2Kx5IXDWQ7_BI=w2874-h1582)
 
-I 
+I fixed the wrong links in python.md and linked them to the right pages.
