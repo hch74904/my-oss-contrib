@@ -29,22 +29,22 @@ At the beginning, I went through the projects in the Github explore page and fou
 
 ## Codes
 
-![PullRequest](https://lh5.googleusercontent.com/pndtQwZoPtpPhhjnW3A8-WiHCYVSkm1EYHrqpIoD-kAEYV1Sd6N6tBxRF95d1oN1COp5vU6Lxlm3isyNTFgs=w2874-h1582)
+![PullRequest](https://user-images.githubusercontent.com/17072014/33281494-15a8c478-d36b-11e7-9b22-00dc121ff82a.png)
 
 The created and changed files in this pull request.
 
-![code1](https://lh6.googleusercontent.com/jOQrL75ysIgmi67wWa2KDt6u-rR8sz8Pkw1yWOlrG_0feiQrQcHfm2dITKbyTVBlb8b0P-hHtNyB1WjZCaYe=w2874-h1582)
+![code1](https://user-images.githubusercontent.com/17072014/33281509-1f42035a-d36b-11e7-928d-d97c9ef8befd.png)
 
 I add a part of uses of Go language in go.md, the introduction of Go.
 
-![code3](https://lh5.googleusercontent.com/MMXlg-wSfjVJ6dd2GZzr1N-I2WMXJSDKuZNsBBoM6b5_0RqaKYxBimVzPgK0J361obEB5z100NdNe6VZRXfy=w2874-h1582)
+![code3](https://user-images.githubusercontent.com/17072014/33281518-22f654c4-d36b-11e7-8cb1-2397ab3d833c.png)
 
 I create a HTML introduction article.
 
-![code2](https://lh6.googleusercontent.com/vs2F2YWlFASY6HZOAOth_Beh-0Cij3BKtJ1laIpD5mY8rFJKEKENiFZNNrSISrCFiKolb9yHwqskou2ZROcC=w2874-h1582)
+![code2](https://user-images.githubusercontent.com/17072014/33281517-22e2721a-d36b-11e7-9b7f-f7ded548aaa7.png)
 
 I create a HTML document type declaration article.
 
-![code4](https://lh5.googleusercontent.com/NeT_jxu-OcuqntA6iHLFz737s3VgZjjyCYdF0mRfC5C4rfQbbXIC9RZn7Bl77jtz2TsgxDA2Kx5IXDWQ7_BI=w2874-h1582)
+![code4](https://user-images.githubusercontent.com/17072014/33281519-230960a0-d36b-11e7-92a5-4e30bddfe1a9.png)
 
 I fixed the wrong links in python.md and linked them to the right pages.
